@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2024  
 **Instructor(s):** [Devi Bhakta Suberi](https://github.com/dsuberi)  
-**Name:** Michael Keeports 
-**GitHub Handle:** @mkeeports17 
-**Repository:** https://github.com/mkeeports17/cis411_lab3_uiux
+**Name:** 
+**GitHub Handle:** 
+**Repository:** 
 **Collaborators:** 
 ___
 
