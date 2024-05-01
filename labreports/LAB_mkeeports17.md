@@ -84,39 +84,57 @@ When I hit filter here is the results page. It's nice, the UI is pretty good but
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case #1 |  |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | View 8 semester plan |
+| Description / Steps | Student views the planned courses they should take for the next 8 semesters, based on their major/concentration. |
+| Primary Actor | Student in CIS at Messiah. |
+| Preconditions | Student is registered in CIS and is on the page. |
+| Postconditions | Student prints their new plan and gives to their advisor. |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Degreeworks](https://degreeworks-c.messiah.edu:8441/worksheets/WEB31)
+2. Competitor 2 [The View](https://ssb8c.messiah.edu/ssb8/mc_schdlist.P_Schedule_List_Init?TERM_IN=200810)
+3. Competitor 3 [Ellucian](https://ssb-regc.messiah.edu/StudentRegistrationSsb/ssb/registration)
+4. Comptitor 4 [8 Sem Plan Messiah](https://www.messiah.edu/download/downloads/id/6041/2018_Advising_handbook_III_CIS.pdf)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | View 8 semester plan for their major |   |
+| 2 | Process a what-if calculation for if they chose a different major. |   |
+| 3 | View the prerequisites for the classes they need. |   |
+| 4 | Find when the courses they need are offered. |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | View 8 semester plan for their concentration | The user was able to figure out where to enter their concentration and view their 8 semester planner. They were happy with this convenient tool. |
+| 2 | Process a what-if calculation for if they chose a different major.  | User found it very easy to switch concentrations to a different one that they are considering and view the 8 semester plan for that concentration. |
+| 3 | View the prerequisites for the classes they need.  | Student had to look for it but was able to find the data for each course that said it's prerequisites. |
+| 4 | Find when the courses they need are offered.  | After finding the prereqs the student knew exactly where to find the course offering information for each course. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+I think 3 improvements for my workflow could be:
+- Change the color scheme to make it look more like messiah colors
+- Make a page that shows the class prerequisites and offering so that they don't need to click on each class individually to find this
+- Providing suggested advisors email adresses
+
+2 improvements that were beneficial to the user:
+- Very easy drop down select box for switching to view other concentrations's courses
+- Easy to use print out schedule button at the bottom of the page
+
+What do you believe your team did well in conducting the usability test?
+- Combining all the necessary information they need to schedule their core major classes
+- No need for the user to login so the user can jump right into the action
+
+What could your team improve for next time?
+- Add details on the staff in the department. Include their email addresses, office locations, and office hours.
+
+Offer a brief statement about your experience conducting a usability test.
+- I thought this experience was definitely challenging. Explaining to the user the actions they should be taking without actually telling them what to do was a difficult task. I think next time we should maybe make the usability test a little bit more in depth.
